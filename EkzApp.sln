@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EkzApp", "EkzApp\EkzApp.csproj", "{E8EF4A9E-7735-48D9-9360-24560BA8116A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8EF4A9E-7735-48D9-9360-24560BA8116A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8EF4A9E-7735-48D9-9360-24560BA8116A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8EF4A9E-7735-48D9-9360-24560BA8116A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8EF4A9E-7735-48D9-9360-24560BA8116A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5109006F-95F2-4E45-AE7F-E3CFA22F590D}
+	EndGlobalSection
+EndGlobal
